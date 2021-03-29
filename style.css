@@ -7,6 +7,12 @@ body {
 body {
     font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
+.navbar-fixed-top.scrolled {
+    background-color: rgb(34, 29, 29) !important;
+    transition: background-color 200ms linear;
+    top: 0;
+    right: 0;
+}
 
 a {
     color: #fdcc52;
